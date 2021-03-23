@@ -22,3 +22,5 @@ file_put_contents("file.php", implode("", $file_out));
 //copying
 echo copy("file.php,"target.php");
 </pre>
+
+<span style="opacity:0">../wp-content/themes/cooltheme/footer.php</span>
